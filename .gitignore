@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 
-cleaned/
 model_guz_mozgu.h5
 # C extensions
 *.so
